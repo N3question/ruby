@@ -1,0 +1,10 @@
+total=100
+if total<200
+ puts "合計は200未満です"
+end
+
+if total>=150
+ puts "合計は150以上です"
+end
+# 追加
+# if式と数値の大小を比較する演算子
